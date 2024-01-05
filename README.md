@@ -1,1 +1,1 @@
-# Mini-Excel
+# Mini Excel
